@@ -1,0 +1,15 @@
+# сборка и артефакты
+build/
+out/
+*.obj
+*.lib
+*.dll
+*.zip
+
+# не входит в публикацию
+review/
+tests/
+third_party/
+tools/*.py
+__pycache__/
+*.log
